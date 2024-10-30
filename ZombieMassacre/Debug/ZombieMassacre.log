@@ -1,0 +1,39 @@
+﻿  Player.cpp
+C:\Users\Hols\Videos\YouTube\Game Dev\ZombieMassacre\ZombieMassacre\ZombieMassacre\Player.cpp(5,10): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Hols\Videos\YouTube\Game Dev\ZombieMassacre\ZombieMassacre\ZombieMassacre\Player.cpp(6,13): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Hols\Videos\YouTube\Game Dev\ZombieMassacre\ZombieMassacre\ZombieMassacre\Player.cpp(15,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hols\Videos\YouTube\Game Dev\ZombieMassacre\ZombieMassacre\ZombieMassacre\Player.cpp(16,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hols\Videos\YouTube\Game Dev\ZombieMassacre\ZombieMassacre\ZombieMassacre\Player.cpp(26,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Hols\Videos\YouTube\Game Dev\ZombieMassacre\ZombieMassacre\ZombieMassacre\Player.cpp(27,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Hols\Videos\YouTube\Game Dev\ZombieMassacre\ZombieMassacre\ZombieMassacre\Player.cpp(108,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ZombieArena.cpp
+C:\Users\Hols\Videos\YouTube\Game Dev\ZombieMassacre\ZombieMassacre\ZombieMassacre\ZombieArena.cpp(10,48): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hols\Videos\YouTube\Game Dev\ZombieMassacre\ZombieMassacre\ZombieMassacre\ZombieArena.cpp(11,48): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hols\Videos\YouTube\Game Dev\ZombieMassacre\ZombieMassacre\ZombieMassacre\ZombieArena.cpp(13,41): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hols\Videos\YouTube\Game Dev\ZombieMassacre\ZombieMassacre\ZombieMassacre\ZombieArena.cpp(13,27): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  ZombieMassacre.vcxproj -> C:\Users\Hols\Videos\YouTube\Game Dev\ZombieMassacre\ZombieMassacre\Debug\ZombieMassacre.exe
